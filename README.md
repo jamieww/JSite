@@ -1,4 +1,4 @@
-# JeeSite 企业信息管理系统基础框架
+# JeeSite 企业信息管理系统基础框架（学习目的）
 
 ## 框架简介
 
@@ -85,7 +85,7 @@ JeeSite 提供了常用工具进行封装，包括日志工具、缓存工具、
 * E-mail：<mailto:thinkgem@163.com>
 * Github：<https://github.com/thinkgem/jeesite>
 * 开源中国：<http://git.oschina.net/thinkgem/jeesite>
-* 官方网址：<http://jeesite.com>  论坛：<http://bbs.jeesite.com>
+* 官方网址：<http://jeesite.com>
 * 支持JeeSite：<http://jeesite.com/donation.html>
 
 如果你想参与进来共同完善它或有更好的建议，请联系我吧(^_^)。
